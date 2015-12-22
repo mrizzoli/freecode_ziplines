@@ -20,45 +20,10 @@ body {
   overflow: hidden;
 }
 
-.navbar-center {
-  text-align: center;
-}
-
-#sc { 
-        top:30%; /* adjust this as needed */      
-        width:30%; 
-        text-align: left;
-        margin-left: 20%;
-    }
-
-#author_story { 
-        position:absolute; 
-        top:10%; /* adjust this as needed */      
-        width:30%; 
-        text-align: right;
-        margin-left: 65%;
-    }
-
-#section-title { 
-        position:absolute; 
-        top:30%; /* adjust this as needed */      
-        width:30%; 
-        text-align: center;
-    }
-
 #social {
         position:absolute; 
         top:50%; /* adjust this as needed */      
 }
-
-#lorem-text { 
-        font-size: 14px;
-        position: relative; 
-        top:40%; /* adjust this as needed */      
-        width:30%; 
-        text-align: justify;
-        margin-left: 65%;
-    }
 
 .footer_bottom {
   position: relative;
