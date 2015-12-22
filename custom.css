@@ -1,3 +1,11 @@
+.navbar-center {
+    text-align: center;
+}
+
+#social {
+    padding-top: 10%;
+}
+
 #titolo{
     padding-top: 15%;
 }
@@ -20,10 +28,6 @@ body {
   overflow: hidden;
 }
 
-#social {
-        position:absolute; 
-        top:50%; /* adjust this as needed */      
-}
 
 .footer_bottom {
   position: relative;
