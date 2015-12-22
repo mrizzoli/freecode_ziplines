@@ -54,16 +54,15 @@ body {
   background-color: #FFFFFF;
 }
 
-/* Set all parents to full height */
-html, body, 
-.container,
-.cbp-fbscroller,
-.cbp-fbscroller section { 
-	height:100%; 
-}
+/* html, body,  */
+/* .container, */
+/* .cbp-fbscroller, */
+/* .cbp-fbscroller section {  */
+/* 	height:100%;  */
+/* } */
 
 /* background-attachment does the trick */
-.cbp-fbscroller section {
+.scrolling-bg section {
 	position: relative;
   background-position: top center;
 	background-repeat: no-repeat;
@@ -72,17 +71,17 @@ html, body,
   
 }
 
-#fbsection1 {
+#parte1 {
 	background-image: url(http://i1159.photobucket.com/albums/p633/marcosofista/WeThinkAtheistBirds_zpspk2woer8.jpeg);
 }
-#fbsection2 {
+#parte2 {
 	background-image: url();
 }
 
-#fbsection3 {
+#parte3 {
 	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Coffee_bean.jpg/1024px-Coffee_bean.jpg);
 }
 
-#fbsection4 {
+#parte4 {
 	background-image: url(http://i1159.photobucket.com/albums/p633/marcosofista/4744591085_7584bfa69c_o_zpsby5ly8jz.jpg);
 }
