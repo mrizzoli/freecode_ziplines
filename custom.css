@@ -1,13 +1,13 @@
 ul.nav li a, ul.nav li a:visited {
-    color: black !important;
+    color: #000000 !important;
 }
 
 ul.nav li a:hover, ul.nav li a:active {
-    color: black !important;
+    color: #000000 !important;
 }
 
 ul.nav li.active a {
-    color: black !important;
+    color: #000000 !important;
 }
 
 .navbar-center {
