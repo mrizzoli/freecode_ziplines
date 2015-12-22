@@ -1,6 +1,11 @@
+#titolo{
+    padding-top: 15%;
+}
+
 body {
     padding-top: 75px;
 }
+
 #interlinea {
   width: 100%; 
   height: 7px; 
@@ -48,7 +53,7 @@ body {
 
 #lorem-text { 
         font-size: 14px;
-        position: absolute; 
+        position: relative; 
         top:40%; /* adjust this as needed */      
         width:30%; 
         text-align: justify;
